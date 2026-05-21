@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-21T05:56:17.941994472Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-21T06:27:14.185537992Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -694,9 +694,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "춘천 오투펜션",
+      "description": "춘천의 자연과 수상레저를 함께 즐길 수 있는 힐링 공간, 춘천 오투펜션",
+      "keywords": "춘천펜션,춘천여행,춘천수상레저,자연힐링,오투펜션"
     },
     "socialLinks": {
       "facebook": null,
