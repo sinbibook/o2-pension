@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-05-26T04:00:24.661352273Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-05-26T04:03:20.308621968Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -114,9 +114,9 @@
       },
       {
         "id": "54a5eff6-b4dc-404e-b972-c96140dcb3f3",
-        "name": "펜션 서비스",
+        "name": "펜션 서비스 (수상레저)",
         "description": "잔디운동장과 수상레저 패키지를 오투펜션에서 즐겨보세요",
-        "usageGuide": "[천연 잔디 운동장]\n- 펜션 내 잔디 운동장 있음\n\n[ 수상레저 패키지 ] \n- 무제한 놀이기구 패키지 (워터파크 입장권 : 9,000원 / 오전 무제한 : 35,000원 / 오후 무제한 : 30,000원 / 종일 무제한 : 40,000원)\n",
+        "usageGuide": "[천연 잔디 운동장]\n- 펜션 내 잔디 운동장 있음\n\n",
         "displayOrder": 1,
         "images": [
           {
