@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-05-26T04:03:20.308621968Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-05-26T05:13:55.370100415Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -1058,10 +1058,10 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
-            "key": "cormorant",
+            "cdn": "https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap",
+            "key": "ooohbaby",
             "woff2": null,
-            "family": "Cormorant"
+            "family": "Oooh Baby"
           }
         },
         "color": {
@@ -1181,7 +1181,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "O2 _ SUM"
+        "nameEn": "O₂ _ SUM Pension"
       },
       "roomtypes": [
         {
