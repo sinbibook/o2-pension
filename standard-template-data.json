@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-05-26T06:15:29.664583884Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-05-26T06:18:58.331209021Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -715,7 +715,7 @@
           "sections": [
             {
               "hero": {
-                "title": "숨 쉬듯 편안한 쉼이 있는곳,",
+                "title": "숨 쉬듯 편안한 쉼이 있는 곳,",
                 "images": [
                   {
                     "id": "265cc51e-5573-45c1-9926-8f84bce59c76",
@@ -800,7 +800,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": " 자 연 속 에 서  천 천 히  머 무 는  시 간 "
+                "description": " 자연 속에서  천천히  머무는  시간 "
               },
               "closing": {
                 "title": " ",
