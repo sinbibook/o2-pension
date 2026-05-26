@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-05-26T05:32:40.101169378Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-05-26T06:15:29.664583884Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -715,7 +715,7 @@
           "sections": [
             {
               "hero": {
-                "title": "숨 쉬듯 편안한 쉼이 있는곳, 춘천 오투펜션",
+                "title": "숨 쉬듯 편안한 쉼이 있는곳,",
                 "images": [
                   {
                     "id": "265cc51e-5573-45c1-9926-8f84bce59c76",
@@ -819,7 +819,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "O2 Pension",
+                "title": "춘천 오투펜션",
                 "images": [
                   {
                     "id": "24dc3420-12f6-4426-9951-b528ce32a374",
@@ -848,7 +848,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "펜션 바로 앞 강에서 시원한 수상레저를 즐기며,\n즐거운 물놀이의 특별한 추억을 만들어보세요.\n뒤편으로 펼쳐진 산과 자연 속에서 \n여유로운 힐링 시간을 보낼 수 있습니다.\n자연과 액티비티를 함께 즐길 수 있는 \n춘천 O2펜션에서 특별한 하루를 만나보세요."
+                "description": "펜션 바로 앞 강에서 시원한 수상레저를 즐기며,\n즐거운 물놀이의 특별한 추억을 만들어보세요.\n뒤편으로 펼쳐진 산과 자연 속에서 \n여유로운 힐링 시간을 보낼 수 있습니다.\n자연과 액티비티를 함께 즐길 수 있는 \n춘천 O₂펜션에서 특별한 하루를 만나보세요."
               },
               "gallery": {
                 "title": "Preview",
@@ -1058,10 +1058,10 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap",
-            "key": "ooohbaby",
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
             "woff2": null,
-            "family": "Oooh Baby"
+            "family": "Cormorant"
           }
         },
         "color": {
@@ -1181,7 +1181,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "O₂ _ Sum Pension"
+        "nameEn": "Chuncheon O₂"
       },
       "roomtypes": [
         {
