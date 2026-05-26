@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-22T08:29:47.951745712Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-26T03:58:01.535598283Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -715,7 +715,7 @@
           "sections": [
             {
               "hero": {
-                "title": "춘천 오투펜션",
+                "title": "숨 쉬듯 편안한 쉼이 있는곳, 춘천 오투펜션",
                 "images": [
                   {
                     "id": "265cc51e-5573-45c1-9926-8f84bce59c76",
@@ -800,7 +800,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": " "
+                "description": " 자연속에서 천천히 머무는 시간"
               },
               "closing": {
                 "title": " ",
@@ -1181,7 +1181,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "SOOM, O2 pension"
+        "nameEn": "O2 _ SUM"
       },
       "roomtypes": [
         {
