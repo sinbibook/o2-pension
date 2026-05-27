@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-05-26T06:18:58.331209021Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-05-27T09:49:13.627223337Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -25,7 +25,7 @@
     "province": "강원특별자치도",
     "city": "춘천시",
     "domain": "o2-pension.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12335",
     "ybsId": "",
     "amenities": [
       "WiFi",
