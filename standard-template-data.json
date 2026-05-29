@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-05-29T02:07:16.847499593Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-05-29T02:07:33.311495009Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -957,7 +957,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2657943-b3c4-44c1-aac0-b9dcfb40d034/main_about/1779342250848-2k17vkuv24.jpg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "5740a3c1-da1b-488c-b199-b0ebee3fd5e1"
                     }
                   ],
                   "blockId": "5740a3c1-da1b-488c-b199-b0ebee3fd5e1",
@@ -971,7 +972,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2657943-b3c4-44c1-aac0-b9dcfb40d034/main_about/1779342250844-hmhk6hafri.jpg",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "22d245da-4de6-47a1-b453-635318ac30a2"
                     }
                   ],
                   "blockId": "22d245da-4de6-47a1-b453-635318ac30a2",
@@ -1179,7 +1181,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "O₂, Sum Stay"
+        "nameEn": "O₂, sum stay"
       },
       "roomtypes": [
         {
