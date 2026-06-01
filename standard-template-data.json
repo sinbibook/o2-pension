@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-06-01T01:58:51.102670605Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-06-01T07:43:08.785211071Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -26,7 +26,7 @@
     "city": "춘천시",
     "domain": "o2-pension.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/2017975146",
-    "ybsId": "",
+    "ybsId": "80399",
     "amenities": [
       "WiFi",
       "주차장",
