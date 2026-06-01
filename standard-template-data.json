@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-05-29T05:13:08.631909424Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-06-01T01:58:51.102670605Z",
     "templateType": "full_banner_wipe",
     "propertyId": "56f1e18b-a9f9-4219-a62e-3b229b490066",
     "homepageId": "f2657943-b3c4-44c1-aac0-b9dcfb40d034"
@@ -983,7 +983,83 @@
             }
           ]
         },
-        "room": [ ],
+        "room": [
+          {
+            "id": "4636b7e5-95ca-4f77-ae91-d30be8f00ac4",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "aba0b6ef-68db-499f-8f35-b3b2d1b659c5",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "beb5e1e4-6fb6-4f95-b180-e58a4b6f72e6",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "273ed68c-904f-47f3-bfde-7d0bb27682c1",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "5a7ddf2a-ca0b-4bc3-aecb-4c02b21031c2",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "facility": [ ],
         "reservation": {
           "sections": [
